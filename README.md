@@ -16,7 +16,7 @@ Quelques projets récents ou en cours :
 <!--- - 🛒 **Mini E-commerce** : Application web avec Spring Boot et une interface responsive en JavaScript. --->
 
 ### 💡 Ce que j'apprends actuellement
-- 📚 Design moderne avec CSS (Flexbox, Grid, animations)
+- 📚 Design moderne avec CSS (Flexbox, Grid, animations, JavaScript)
 - ⚛️ Frameworks JS (React ou Vue.js à venir)
 
 ### 📫 Contact
