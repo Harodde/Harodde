@@ -1,7 +1,7 @@
 # 👋 Bonjour, je suis Yanick !
 
 ### 🌟 À propos de moi
-- 🇫🇷 Développeur en transition vers une carrière en **développement web/logiciel**.
+- 🇫🇷 Technicien Helpdesk en transition vers une carrière en **développement web/logiciel**.
 - 🚀 J'ai récemment terminé une formation en **Fullstack Java** et travaille activement à renforcer mes compétences en **Frontend** (HTML, CSS, JavaScript).
 - 🎯 Mon objectif : Créer des projets concrets et collaborer sur des applications innovantes.
 
